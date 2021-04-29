@@ -5,3 +5,4 @@ C:\project\pie18_abramenkov\WindowsFormsApplication1\WindowsFormsApplication1\ob
 C:\project\pie18_abramenkov\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\project\pie18_abramenkov\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\project\pie18_abramenkov\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\project\pie18_abramenkov\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

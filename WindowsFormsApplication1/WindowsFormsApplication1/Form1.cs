@@ -60,5 +60,15 @@ namespace WindowsFormsApplication1
             textBox3.Text = Convert.ToString(c);
             label4.Text = "Деление";
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int a = Convert.ToInt32(textBox1.Text);
+            int b = Convert.ToInt32(textBox2.Text);
+            int c;
+            c = a*a*a + b*b*b;
+            textBox3.Text = Convert.ToString(c);
+            label4.Text = "Сумма кубов чисел";
+        }
     }
 }
